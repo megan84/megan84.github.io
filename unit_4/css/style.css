@@ -1,0 +1,87 @@
+@import url(https://fonts.googleapis.com/css?family=Dr+Sugiyama);
+
+body {
+background: #FFF;
+}
+nav {
+	padding:10px;
+}
+
+#button-container {
+display:inline-block;
+border: 3px #CC2841;
+background: #CC2841;
+color: #FFFCF1;
+text-decoration:none;
+margin: auto 44%;
+margin-bottom:10px;
+text-align:center;
+border-radius:5px;
+width:200px;
+height:25px;
+}
+
+.button {
+ display:inline;
+ border: 3px #A2CC59;
+ border-radius: 5px;
+ background: #A2CC59;
+ color: #FFFCF1;
+ text-align: center;
+ margin-right:24%;
+ padding:5px;
+ text-decoration:none;
+ width:175px;
+height:25px;
+}
+ 
+
+h1 {
+color: #2C3539;
+text-align: center;
+}
+
+h2 {
+color: #2C3539;
+font-family: 'Dr Sugiyama', cursive;
+font-style: italic;
+text-decoration: underline;
+text-align: center;
+}
+
+h3 {
+	text-align: center;
+	color: #2C3539;
+}
+
+#contact {
+color: #CC2841;
+font-weight: bold;
+text-align: center;
+}
+
+img {
+	width: 500px;
+	display: block;
+    margin-left: auto;
+    margin-right: auto
+}
+
+p {
+font-family: 'Dr Sugiyama', cursive;
+color: #2C3539;
+text-align: left;
+font-size:18px;
+margin:10px;
+}
+
+ul {
+color: #2C3539;
+}
+
+li {
+color: #2C3539;
+font-size:16px;
+margin:10px;
+}
+
