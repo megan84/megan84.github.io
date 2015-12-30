@@ -1,0 +1,128 @@
+@import url(https://fonts.googleapis.com/css?family=Architects+Daughter);
+@import url(https://fonts.googleapis.com/css?family=Amatic+SC);
+
+body {
+background: #FFF;
+}
+header {
+	background-color: #FFED74;
+    border: 1px black solid;
+    padding: 20px;
+}
+
+nav {
+	background-color: #E8C66A;
+    border: 1px black solid;
+    padding: 20px;
+}
+
+aside {
+	background-color: #FFC675;
+    border: 1px black solid;
+    padding: 20px;
+}
+
+section {
+	background-color: #FFE2B8;
+	border: 1px black solid;
+    padding: 20px;
+}
+
+footer {
+	background-color: #FF957E;
+	border: 1px black solid;
+    padding: 20px;
+}
+
+#button-container {
+display:inline-block;
+border: 3px #CC2841;
+background: #CC2841;
+color: #FFFCF1;
+text-decoration:none;
+margin: auto 44%;
+margin-bottom:10px;
+text-align:center;
+border-radius:5px;
+padding: 15px;
+}
+
+#button-container a{
+text-decoration:none;
+color: #FFFCF1;
+font-family: 'Amatic SC', cursive;
+font-size:18px;
+font-weight:600;
+}
+
+.button {
+ display:inline-block;
+ border: 3px #A2CC59;
+ border-radius: 5px;
+ background: #A2CC59;
+ color: #FFFCF1;
+ text-align: center;
+ margin-right:10%;
+ margin-left:7%;
+ text-decoration:none;
+ padding:10px;
+ font-family: 'Amatic SC', cursive;
+ font-size:18px;
+ font-weight:600;
+}
+ 
+
+h1 {
+color: #2C3539;
+text-align: center;
+}
+
+h2 {
+color: #2C3539;
+font-family: 'Architects Daughter', cursive;
+font-style: italic;
+text-decoration: underline;
+text-align: center;
+}
+
+h3 {
+	font-family: 'Amatic SC', cursive;
+	text-align: center;
+	color: #2C3539;
+	font-size:24px;
+}
+
+#contact {
+color: #CC2841;
+font-weight: bold;
+text-align: center;
+}
+
+img {
+	width: 500px;
+	display: block;
+    margin-left: auto;
+    margin-right: auto
+}
+
+p {
+font-family: 'Architects Daughter', cursive;
+color: #2C3539;
+text-align: left;
+font-size:18px;
+margin:10px;
+}
+
+ul {
+color: #2C3539;
+font-family: 'Amatic SC', cursive;
+}
+
+li {
+font-family: 'Amatic SC', cursive;
+color: #2C3539;
+font-size:20px;
+font-weight:bold;
+margin:10px;
+}
+
