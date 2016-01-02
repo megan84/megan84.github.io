@@ -1,0 +1,136 @@
+body {
+background: #FFF;
+}
+nav {
+	background-color: #E8C66A;
+    border: 1px black solid;
+    padding: 20px;
+}
+header {
+	background-color: #FFED74;
+    border: 1px black solid;
+    padding: 20px;
+}
+
+section {
+	background-color: #E89C6C;
+    border: 1px black solid;
+    padding: 20px;
+}
+
+article {
+	background-color: #FFE2B8;
+    border: 1px black solid;
+    padding: 20px;
+}
+aside {
+	background-color: #FFC675
+    border: 1px black solid;
+    padding: 20px;
+}
+
+footer {
+	background-color: #FF957E;
+	border: 1px black solid;
+    padding: 20px;
+}
+
+#two_column {
+    background-color: #FFB7CF;
+    border: 1px black solid;
+    padding: 20px;
+}
+
+#left {
+    background-color: violet;
+    border: 1px black solid;
+    padding: 20px;
+    float: left;
+    width: 30%;
+}
+
+#right {
+    background-color: pink;
+    border: 1px black solid;
+    padding: 20px;
+    float: right;   
+    width: 62%;
+}
+
+.clearfix:after {
+    visibility: hidden;
+    display: block;
+    font-size: 0;
+    content: " ";
+    clear: both;
+    height: 0;
+}
+
+.button {
+    display: inline;
+    border: 3px #A2CC59;
+    border-radius: 5px;
+    background: #A2CC59;
+    color: #FFFCF1;
+    text-align: center;
+    margin-right: 15%;
+    margin-left: 2.5%;
+    padding: 15px;
+    text-decoration: none;
+	font-family: 'Amatic SC', cursive;
+	font-weight: bold;
+} 
+
+h1 {
+color: #2C3539;
+text-align: center;
+font-family: 'Amatic SC', cursive;
+}
+
+h2 {
+color: #2C3539;
+font-style: italic;
+text-decoration: underline;
+text-align: center;
+font-family: "Architects Daughter", cursive;
+}
+
+h3 {
+	text-align: center;
+	color: #2C3539;
+	font-family: 'Architects Daughter', cursive;
+}
+
+#contact {
+color: #CC2841;
+font-weight: bold;
+text-align: center;
+}
+
+img {
+	width: 500px;
+	display: block;
+    margin-left: auto;
+    margin-right: auto
+}
+
+p {
+color: #2C3539;
+text-align: left;
+font-size:18px;
+margin:10px;
+font-family: 'Architects Daughter', cursive;
+}
+
+ul {
+color: #2C3539;
+}
+
+li {
+color: #2C3539;
+font-size:16px;
+margin:10px;
+font-family: 'Amatic SC', cursive;
+font-weight: bold;
+}
+
