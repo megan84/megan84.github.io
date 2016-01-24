@@ -1,0 +1,200 @@
+@import url(https://fonts.googleapis.com/css?family=Architects+Daughter);
+@import url(https://fonts.googleapis.com/css?family=Amatic+SC);
+
+body {
+	background: #FFF;
+	font-size:16px;
+}
+nav {
+	padding:1em;
+}
+
+#button-container {
+	display:inline-block;
+	border: .5em #CC2841;
+	background: #CC2841;
+	color: #FFFCF1;
+	text-decoration:none;
+	margin: auto 44%;
+	margin-bottom:1em;
+	text-align:center;
+	border-radius:.5em;
+	padding: 1.5em;
+}
+
+#button-container a{
+	text-decoration:none;
+	color: #FFFCF1;
+	font-family: 'Amatic SC', cursive;
+	font-size:1.25em;
+	font-weight:bold;
+}
+
+.button {
+ 	display:inline-block;
+ 	border: .5em #A2CC59;
+ 	border-radius: .75em;
+	background: #A2CC59;
+ 	color: #FFFCF1;
+ 	text-align: center;
+ 	margin-right: 10%;
+ 	margin-left: 5%;
+ 	text-decoration: none;
+ 	padding: .75em;
+ 	padding-right: 1em;
+ 	padding-left: 1em;
+ 	font-family: 'Amatic SC', cursive;
+ 	font-size: 1.5em;
+ 	font-weight: bold;
+}
+ 
+
+h1 {
+	color: #2C3539;
+	text-align: center;
+}
+
+h2 {
+	color: #2C3539;
+	font-family: 'Architects Daughter', cursive;
+	font-style: italic;
+	text-decoration: underline;
+	text-align: center;
+	font-size: 1.75em;
+}
+
+h3 {
+	font-family: 'Amatic SC', cursive;
+	text-align: center;
+	color: #2C3539;
+	font-size: 2.5em;
+}
+
+#contact {
+	color: #CC2841;
+	font-weight: bold;
+	text-align: center;
+	text-decoration: none; 
+}
+
+#contact a {
+	color: #A2CC59;
+	font-weight: bold;
+}
+
+img {
+	width: 50%;
+	display: block;
+    margin-left: auto;
+    margin-right: auto
+}
+
+p {
+	font-family: 'Architects Daughter', cursive;
+	color: #2C3539;
+	text-align: left;
+	font-size:1.5em;
+	margin:.75em;
+}
+
+ul {
+	color: #2C3539;
+	font-family: 'Amatic SC', cursive;
+	font-size: 1.75em;
+}
+
+li {
+	font-family: 'Amatic SC', cursive;
+	color: #2C3539;
+	font-size:1.25em;
+	font-weight:bold;
+	margin:.75em;
+}
+
+
+@media only screen and (min-width:1114px) and (max-width:1199px) {
+#button-container {
+	display:inline-block;
+	border: .5em #CC2841;
+	background: #CC2841;
+	color: #FFFCF1;
+	text-decoration:none;
+	margin: auto 44%;
+	margin-bottom:1em;
+	text-align:center;
+	border-radius:.5em;
+	padding: 1.5em;
+}
+
+#button-container a{
+	text-decoration:none;
+	color: #FFFCF1;
+	font-family: 'Amatic SC', cursive;
+	font-size:1.25em;
+	font-weight:bold;
+}
+
+.button {
+ 	display:inline-block;
+ 	border: .5em #A2CC59;
+ 	border-radius: .75em;
+	background: #A2CC59;
+ 	color: #FFFCF1;
+ 	text-align: center;
+ 	margin-right: 28.5%;
+	margin-left:10%;
+	margin-top: 3%;
+	margin-bottom: 3%;
+ 	text-decoration: none;
+ 	padding: .75em;
+ 	padding-right: 1em;
+ 	padding-left: 1em;
+ 	font-family: 'Amatic SC', cursive;
+ 	font-size: 1.5em;
+ 	font-weight: bold;
+	float:none;
+}
+}
+
+@media only screen and (min-width:320px) and (max-width:1113px) {
+#button-container {
+	display:block;
+	border: .5em #CC2841;
+	background: #CC2841;
+	color: #FFFCF1;
+	text-decoration:none;
+	margin: auto 44%;
+	margin-bottom:1em;
+	text-align:center;
+	border-radius:.5em;
+	padding: 1.5em;
+}
+
+#button-container a{
+	text-decoration:none;
+	color: #FFFCF1;
+	font-family: 'Amatic SC', cursive;
+	font-size:1.25em;
+	font-weight:bold;
+}
+
+.button {
+ 	display:block;
+ 	border: .5em #A2CC59;
+ 	border-radius: .75em;
+	background: #A2CC59;
+ 	color: #FFFCF1;
+ 	text-align: center;
+	margin-top: 3%;
+	margin-bottom: 3%;
+ 	text-decoration: none;
+ 	padding: .75em;
+ 	padding-right: 1em;
+ 	padding-left: 1em;
+ 	font-family: 'Amatic SC', cursive;
+ 	font-size: 1.5em;
+ 	font-weight: bold;
+	float:none;
+}
+}
+	
